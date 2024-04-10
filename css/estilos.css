@@ -1,6 +1,19 @@
 body
 {
-    color:aqua ;
+    color:salmon ;
     text-align: center;
     font-family: "Arial";
+}
+#cointainer
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+}
+
+ 
+#cointainer1
+{
+    font-size : 20px;
 }
